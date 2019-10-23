@@ -1,0 +1,14 @@
+{
+	"id": 1,
+	"properties": {
+		"name": {
+			"content": "maben",
+			"segment_word": true
+		},
+		"status": {
+			"content": "normal",
+			"segment_word": true
+		}
+	}
+}
+
